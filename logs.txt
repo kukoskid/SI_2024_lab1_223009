@@ -1,0 +1,37 @@
+commit 45446da30ee4d50380603bfc7442235efea360c9 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: kukoskid <kukoskid2@gmail.com>
+Date:   Thu Mar 28 19:58:59 2024 +0100
+
+    Call method makebigStringFrom
+
+commit 7db68607ee7f87319cad86f7b9e9a0c026bd7f53
+Author: kukoskid <kukoskid2@gmail.com>
+Date:   Thu Mar 28 20:24:35 2024 +0100
+
+    changes
+
+
+
+commit 67dc77a7234f760b8f318f5671c084bd39b8ad7e (origin/bug1, bug1)
+Author: kukoskid <kukoskid2@gmail.com>
+Date:   Thu Mar 28 19:52:29 2024 +0100
+
+    Call method filterOddLengthStrings
+
+commit db7bb8a3d1cd7cf1acbee7b9e4839d43f057d039
+Author: kukoskid <kukoskid2@gmail.com>
+Date:   Thu Mar 28 19:44:15 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 68edb26c2d644b2f1e967681a7d1e98fb9a9e969
+Author: kukoskid <kukoskid2@gmail.com>
+Date:   Thu Mar 28 19:28:24 2024 +0100
+
+    Add starter code
+
+commit 09ce0a251f98068aacd2b257c8c3168246479360
+Author: kukoskid <kukoskid2@gmail.com>
+Date:   Thu Mar 28 19:18:52 2024 +0100
+
+    Initial commit
